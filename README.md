@@ -2,7 +2,7 @@
 
 This is a Google docs clone made according to tutorial by Web Dev Simplified.
 
-## Setup
+# Setup
 
 Get your local copy of the repository by cloning or forking.
 
