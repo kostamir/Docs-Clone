@@ -6,13 +6,13 @@ This is a Google docs clone made according to tutorial by Web Dev Simplified.
 
 Get your local copy of the repository by cloning or forking.
 
-# docs-client
+### docs-client
 
 Install project package dependencies. Run `npm install` in the terminal.
 
 To start development version, run `npm start` in the terminal.
 
-## docs-server
+### docs-server
 
 Install project package dependencies. Run `npm install` in the terminal.
 
